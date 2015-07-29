@@ -1,0 +1,943 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_s",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"w",
+				"where"
+			],
+			[
+				"K",
+				"KomKOD"
+			],
+			[
+				"kom",
+				"KomKOD"
+			],
+			[
+				"s",
+				"shortcatids"
+			],
+			[
+				"p",
+				"param  (variable)"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"mb_strl",
+				"mb_strtolower"
+			],
+			[
+				"in",
+				"inReference"
+			],
+			[
+				"ba",
+				"barDump"
+			],
+			[
+				"re",
+				"reference203"
+			],
+			[
+				"search",
+				"searchstr"
+			],
+			[
+				"se",
+				"searchstr"
+			],
+			[
+				"mb_",
+				"mb_stripos"
+			],
+			[
+				"_port",
+				"_portal_pom"
+			],
+			[
+				"_po",
+				"_portal_vstup"
+			],
+			[
+				"basket",
+				"basketStat"
+			],
+			[
+				"all",
+				"allowSites"
+			],
+			[
+				"sou",
+				"souhlas_op"
+			],
+			[
+				"add",
+				"addBasketScript"
+			],
+			[
+				"va",
+				"var_export"
+			],
+			[
+				"DE",
+				"DELETE"
+			],
+			[
+				"sql",
+				"sqlres"
+			],
+			[
+				"sq",
+				"sqlres"
+			],
+			[
+				"fetc",
+				"fetch"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"fet",
+				"fetchField"
+			],
+			[
+				"image",
+				"image-holder"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"sec",
+				"secondaryCatalog"
+			],
+			[
+				"id",
+				"id_group"
+			],
+			[
+				"id_",
+				"id_group"
+			],
+			[
+				"mb_s",
+				"mb_strlen"
+			],
+			[
+				"seco",
+				"secondaryCatalogPrefix"
+			],
+			[
+				"mb_str",
+				"mb_strpos"
+			],
+			[
+				"u",
+				"userId"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"fo",
+				"formdata"
+			],
+			[
+				"bas",
+				"Basket"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"icons",
+				"iconsSpinner"
+			],
+			[
+				"k",
+				"ktypnr"
+			],
+			[
+				"fetch",
+				"fetchAll"
+			],
+			[
+				"icon",
+				"icons"
+			],
+			[
+				"no",
+				"nodes"
+			],
+			[
+				"Id",
+				"IdShortCat"
+			],
+			[
+				"typ",
+				"typid"
+			],
+			[
+				"getSe",
+				"getSelectSearch"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"sho",
+				"shortcatid"
+			],
+			[
+				"group",
+				"groupChange"
+			],
+			[
+				"nod",
+				"nodeid_arr"
+			],
+			[
+				"stu",
+				"stufe1"
+			],
+			[
+				"ma",
+				"maxid"
+			],
+			[
+				"max",
+				"maxid"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"getC",
+				"getCarModels"
+			],
+			[
+				"fe",
+				"fetch"
+			],
+			[
+				"sea",
+				"searchResult"
+			],
+			[
+				"is",
+				"isVin"
+			],
+			[
+				"vin",
+				"vinSearch"
+			],
+			[
+				"ca",
+				"catalog"
+			],
+			[
+				"FE",
+				"fetchAll"
+			],
+			[
+				"cri",
+				"crittable"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"o",
+				"orderId"
+			],
+			[
+				"D",
+				"DLNr"
+			],
+			[
+				"orde",
+				"orderId"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"de",
+				"demand"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"cr",
+				"crit_arr"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"a",
+				"artnr"
+			],
+			[
+				"fla",
+				"flashes"
+			],
+			[
+				"fin",
+				"findcount"
+			],
+			[
+				"mb_sttr",
+				"mb_strtolower"
+			],
+			[
+				"find",
+				"findscript"
+			],
+			[
+				"main",
+				"mainkey"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"strl",
+				"mb_strlen"
+			],
+			[
+				"fi",
+				"findstr"
+			],
+			[
+				"engine",
+				"engineid"
+			],
+			[
+				"refe",
+				"reference207"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"fir",
+				"fireLog"
+			],
+			[
+				"Be",
+				"BezNr"
+			],
+			[
+				"Le",
+				"LEFT"
+			],
+			[
+				"L",
+				"LEFT"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"select",
+				"selectForm-spinner"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"fil",
+				"file_headers"
+			],
+			[
+				"op",
+				"optionPolozky"
+			],
+			[
+				"getS",
+				"getSearchTreeSql"
+			],
+			[
+				"N",
+				"NodeID"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"str",
+				"strom_arr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"P",
+				"NodeParentID"
+			],
+			[
+				"SE",
+				"SELECT"
+			],
+			[
+				"V",
+				"VehicleTyp"
+			],
+			[
+				"T",
+				"TreeTypNr"
+			],
+			[
+				"No",
+				"NodeID"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"debu",
+				"Debugger"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"A",
+				"ArtID"
+			],
+			[
+				"g",
+				"group_arr"
+			],
+			[
+				"las",
+				"last_parent"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"Is",
+				"isset"
+			],
+			[
+				"chil",
+				"child_flag"
+			],
+			[
+				"arr",
+				"array_reverse"
+			],
+			[
+				"Wh",
+				"WHERE"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"form",
+				"formdata"
+			],
+			[
+				"year",
+				"yearChange"
+			],
+			[
+				"Y",
+				"years"
+			],
+			[
+				"f",
+				"first"
+			],
+			[
+				"flo",
+				"floor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"syn c",
+				"Set Syntax: C"
+			],
+			[
+				"sy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ssp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JSON"
+			],
+			[
+				"Package Control: n",
+				"Package Control: Install Package"
+			],
+			[
+				"la",
+				"Set Syntax: Latte"
+			],
+			[
+				"ss",
+				"Set Syntax: Smarty"
+			],
+			[
+				"sssm",
+				"Set Syntax: Smarty"
+			],
+			[
+				"ss la",
+				"Set Syntax: Latte"
+			],
+			[
+				"ss sm",
+				"Set Syntax: Smarty"
+			],
+			[
+				"ss s",
+				"Set Syntax: Smarty"
+			],
+			[
+				"tax p",
+				"Set Syntax: PHP"
+			],
+			[
+				"syx m",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/_HTML projects/iveco/app/config/config.local.neon",
+		"/C/_HTML projects/iveco/app/bootstrap.php",
+		"/C/_HTML projects/iveco/app/templates/Homepage/kontakt.latte",
+		"/C/_HTML projects/iveco/app/templates/Homepage/onas.latte",
+		"/C/_HTML projects/iveco/app/templates/Catalog/list-tiles.latte",
+		"/C/_HTML projects/iveco/app/model/UserManager.php",
+		"/C/_HTML projects/iveco/app/presenters/SignPresenter.php",
+		"/C/_HTML projects/iveco/app/templates/Basket/default.latte",
+		"/C/_HTML projects/iveco/app/templates/@layout.latte",
+		"/C/_HTML projects/iveco/app/templates/Basket/email.latte",
+		"/C/_HTML projects/iveco/app/templates/Catalog/default.latte",
+		"/C/_HTML projects/iveco/vendor/nette/nette/Nette/Security/User.php",
+		"/C/_HTML projects/iveco/vendor/nette/nette/Nette/Http/Url.php",
+		"/C/_HTML projects/iveco/app/config/config.neon",
+		"/C/_HTML projects/iveco/app/templates/Catalog/list-lines.latte",
+		"/C/_HTML projects/iveco/app/templates/Basket/order.latte",
+		"/C/Users/Spagr/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+		"/C/_HTML projects/iveco/app/templates/Testy/default.latte",
+		"/C/_HTML projects/iveco/app/router/RouterFactory.php",
+		"/C/_HTML projects/iveco/www/js/iveco.js",
+		"/C/_HTML projects/iveco/www/js/main.js",
+		"/C/_HTML projects/iveco/app/presenters/HomepagePresenter.php",
+		"/C/_HTML projects/webtemplates-bootstrap/business-casual/index.html",
+		"/C/Users/Spagr/Disk Google/SDS/Solar Boiler/ThingSpeak Solar boiler.c",
+		"/C/Users/Spagr/Disk Google/SDS/Solar Boiler/ThingSpeakClient.pde.htm",
+		"/C/_HTML projects/iveco-latte-new2/app/templates/Catalog/text.latte",
+		"/C/_HTML projects/iveco/www/js/nette.ajax.js",
+		"/C/_HTML projects/iveco/app/presenters/BasketPresenter.php",
+		"/C/_HTML projects/iveco/app/presenters/BasePresenter.php",
+		"/C/_HTML projects/iveco/www/css/styles.css",
+		"/C/_HTML projects/iveco/app/templates/Sign/in.latte",
+		"/C/_HTML projects/iveco-latte-new2/app/presenters/CatalogPresenter.php",
+		"/C/_HTML projects/iveco-latte-new/app/presenters/CatalogPresenter.php",
+		"/C/_HTML projects/iveco/app/templates/Homepage/obchod.latte",
+		"/C/_HTML projects/iveco/app/templates/Homepage/stazeni.latte",
+		"/C/_HTML projects/iveco/app/templates/Homepage/ajaxdefault.latte",
+		"/C/Users/Spagr/Disk Google/SDS/testovaciSDS_zakladni.c",
+		"/C/_HTML projects/iveco-latte/app/router/RouterFactory.php",
+		"/C/_HTML projects/iveco/app/templates/Basket/history.latte",
+		"/C/_HTML projects/iveco/log/cache/_Catalog.default.latte-b05ad4821380b3ae4a5c81f4ef4dc91c.php",
+		"/C/_HTML projects/iveco/app/model/BasketManager.php",
+		"/C/_HTML projects/iveco/screenshot.html",
+		"/C/_HTML projects/iveco/www/js/netteForms.js",
+		"/C/_HTML projects/iveco/app/templates/Homepage/default.latte",
+		"/C/_HTML projects/iveco/temp/cache/_Nette.FileTemplate/_Catalog.default.latte-1a38a6e1e2465c8f4b0005af0f4a3f81.php",
+		"/C/_HTML projects/iveco/www/css/textstyles.css",
+		"/C/_HTML projects/iveco/app/model/CatalogManager.php",
+		"/C/_HTML projects/iveco/app/presenters/CatalogPresenter.php",
+		"/C/_HTML projects/iveco/app/templates/components/form.latte",
+		"/C/_HTML projects/iveco/app/model/XCVManager.php",
+		"/C/_HTML projects/iveco/design/iveco/registrace.php",
+		"/C/_HTML projects/iveco/app/model/Passwords.php",
+		"/C/_HTML projects/iveco/app/templates/Catalog/find.latte",
+		"/C/_HTML projects/test.php",
+		"/C/_HTML projects/iveco/sql/procedura Napln 302Typ.sql",
+		"/C/_HTML projects/iveco/.gitignore",
+		"/C/_HTML projects/iveco/www/css/styles.css.old",
+		"/C/_HTML projects/iveco/app/presenters/ErrorPresenter.php",
+		"/C/_HTML projects/iveco/app/model/SqlLogger.php",
+		"/C/_HTML projects/iveco/www/index.php",
+		"/C/_HTML projects/iveco/app/templates/Catalog/basket.latte",
+		"/C/_HTML projects/iveco/app/web.config",
+		"/C/_HTML projects/iveco/design/iveco/vypis.php",
+		"/C/_HTML projects/iveco/app/model/CatalogManager",
+		"/C/Users/Spagr/Downloads/iveco3/iveco/_filters.php",
+		"/C/_HTML projects/iveco/design/iveco/_filters.php",
+		"/C/_HTML projects/iveco/www/css/bootstrap-theme.min.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$unsignedAccess",
+			"distinct",
+			" X_",
+			"X_",
+			"\"X_",
+			"^X_",
+			"X_",
+			"komKOD",
+			"	",
+			"picurl",
+			"vin",
+			"#searchSpinner",
+			"find",
+			"searchSpinner",
+			"Nazev",
+			"KOMERSIA",
+			"kom",
+			"ThingSpeak",
+			"addb",
+			"itemsConta",
+			"?",
+			"items",
+			"count",
+			"Cena",
+			"cena",
+			",",
+			"sklad",
+			"dostupnost",
+			"marke",
+			"snippet",
+			"detail",
+			"ref",
+			"data",
+			"confirm",
+			"isajax",
+			"getIdentity()",
+			"table",
+			"TecDocItem",
+			");",
+			"$basePath}+",
+			"backgrounds.push",
+			"images",
+			"order",
+			"200_",
+			"small",
+			"Pair",
+			"delivery",
+			"criteria",
+			"form",
+			"pair",
+			"/",
+			"dlnr",
+			"crite",
+			"invalidateControl",
+			"invalideControl",
+			"invalidate",
+			"invalideControl",
+			"invalide",
+			"invalidate",
+			"invalideControl",
+			"invalide",
+			"invalideControl",
+			"invalide",
+			"532",
+			"clear",
+			"krittable",
+			"$crittable",
+			"dt",
+			"order",
+			".content .kosik",
+			"^\\n",
+			"\n",
+			"'pocet'",
+			"pocet",
+			"'pocet'",
+			"cena",
+			"efb502",
+			"fee202",
+			"rgb(239,181,2)",
+			"rgb(254,226,2)",
+			"náplně",
+			"n",
+			"www.naplne.com",
+			"concat",
+			"ajax",
+			"$typAuta",
+			"</option>",
+			"</optgroup>",
+			"/optgroup",
+			">",
+			"flag",
+			"off",
+			"SELECT `HerNr`, HKZ",
+			"skladem",
+			"assets",
+			"$filtr_dodavatele",
+			"K12318 - B12318R1\nK12319 - B12319R1\nK12320 - B12320R1\nK12321 - B12321R1\nK12322 - B12322R1\nK12323 - B12323R1",
+			"connect",
+			"connection"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"KomKOD",
+			"KOMTEC",
+			"invalidateControl",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ba",
+				"app/model/BasketManager.php"
+			],
+			[
+				"lis",
+				"app/templates/Catalog/list-tiles.latte"
+			],
+			[
+				"sign",
+				"app/AdminModule/presenters/SignPresenter.php"
+			],
+			[
+				"deta",
+				"app/FrontModule/templates/Article.detail.latte"
+			],
+			[
+				"presenter.p",
+				"vendor/nette/nette/Nette/Application/UI/Presenter.php"
+			],
+			[
+				"prese",
+				"vendor/nette/nette/Nette/Application/PresenterFactory.php"
+			],
+			[
+				"base",
+				"app/presenters/BasePresenter.php"
+			],
+			[
+				"boo",
+				"app/bootstrap.php"
+			],
+			[
+				"use",
+				"app/model/UserManager.php"
+			],
+			[
+				"tra",
+				"API-reference/Traversable.html"
+			],
+			[
+				"dibic",
+				"dibi/libs/DibiConnection.php"
+			],
+			[
+				"dibi",
+				"dibi/dibi.php"
+			],
+			[
+				".php",
+				".settings/org.eclipse.php.core.prefs"
+			],
+			[
+				"debu",
+				"examples/Nette/Debugger.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true
+}
