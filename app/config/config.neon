@@ -3,7 +3,8 @@
 # http://nette.org/security-warning
 #
 parameters:
-	
+	testVariable: "hovno"
+#		valueA: 'test value' # testovaci value
 
 php:
 	date.timezone: Europe/Prague
@@ -15,6 +16,7 @@ application:
 		*: App\*Module\Presenters\*Presenter
 
 
+
 di:
 	debugger: yes 
 
@@ -22,6 +24,10 @@ session:
 	expiration: 14 days
 
 services:
-	- App\Model\UserManager
+	- 
+		class: App\Model\UserManager
+		setup:
+			- $substitutions( [db: test] )
+
 	- App\Forms\SignFormFactory
 	router: App\RouterFactory::createRouter
