@@ -1,0 +1,29 @@
+{* This is the welcome page, you can delete it *}
+
+{block content}
+<div id="banner">
+	<h1 n:block=title>Box Control</h1>
+</div>
+
+<div id="content">
+
+	{control node}
+
+	{control node-a}
+
+</div>
+{/block}
+
+{block scripts}
+{include parent}
+<script>
+
+	$('a[href^=#]').click(function(){
+		$('html,body').animate({ scrollTop: $($(this).attr('href')).show().offset().top - 5 }, 'fast');
+		return false;
+	});
+</script>
+{/block}
+
+
+

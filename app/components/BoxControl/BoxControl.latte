@@ -1,0 +1,9 @@
+{*Ahoj Svete *}
+
+<div class="box">
+	<strong>{$control->name}</strong>
+
+	{foreach $control->components as $component}
+		{control $component}
+	{/foreach}
+</div>

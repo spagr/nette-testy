@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"su",
+				"substr_compare"
+			],
+			[
+				"con",
+				"$control〔variable〕"
+			],
+			[
 				"_s",
 				"$_SESSION〔variable〕"
 			],
@@ -444,10 +452,6 @@
 				"NodeID"
 			],
 			[
-				"con",
-				"container"
-			],
-			[
 				"debu",
 				"Debugger"
 			],
@@ -510,15 +514,75 @@
 			[
 				"f",
 				"first"
-			],
-			[
-				"flo",
-				"floor"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "app/components/BoxControl/BoxControl.php",
+			"settings":
+			{
+				"buffer_size": 293,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Spagr/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 5421,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/BoxControl/BoxControl.latte",
+			"settings":
+			{
+				"buffer_size": 158,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/presenters/ComponentsPresenter.php",
+			"settings":
+			{
+				"buffer_size": 886,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/presenters/BasePresenter.php",
+			"settings":
+			{
+				"buffer_size": 193,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/config/config.neon",
+			"settings":
+			{
+				"buffer_size": 484,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "temp/cache/Nette.Configurator/Container_10cda4a2e1.php",
+			"settings":
+			{
+				"buffer_size": 22769,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/jasir/component-tree-panel/ComponentTreePanel.php",
+			"settings":
+			{
+				"buffer_size": 10210,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -526,6 +590,50 @@
 		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pc",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"gh",
+				"GitHub: Update Gist"
+			],
+			[
+				"git",
+				"GitHub: Update Gist"
+			],
+			[
+				"gi",
+				"GitHub: Public Gist from Selection"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gis",
+				"Gist: Create Private Gist"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssp",
+				"Set Syntax: PHP"
+			],
 			[
 				"syn c",
 				"Set Syntax: C"
@@ -549,10 +657,6 @@
 			[
 				"pack",
 				"Package Control: Install Package"
-			],
-			[
-				"ssp",
-				"Set Syntax: PHP"
 			],
 			[
 				"ssht",
@@ -599,11 +703,11 @@
 				"Set Syntax: Markdown"
 			]
 		],
-		"width": 408.0
+		"width": 528.0
 	},
 	"console":
 	{
-		"height": 146.0
+		"height": 317.0
 	},
 	"distraction_free":
 	{
@@ -616,6 +720,19 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Spagr/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/_HTML projects/nette/nette-testy/app/model/UserManager.php",
+		"/C/_HTML projects/nette/nette-testy/app/bootstrap.php",
+		"/C/_HTML projects/nette/nette-testy/app/config/config.local.neon",
+		"/C/_HTML projects/nette/nette-testy/app/presenters/templates/@layout.latte",
+		"/C/_HTML projects/nette/nette-testy/app/presenters/templates/Components/default.latte",
+		"/C/Users/Spagr/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Spagr/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Spagr/AppData/Roaming/Sublime Text 2/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Spagr/AppData/Roaming/Sublime Text 2/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/Users/Spagr/AppData/Roaming/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/C/_HTML projects/nette/nette-testy/app/presenters/BasePresenter.php",
+		"/C/_HTML projects/nette/nette-testy/www/index.php",
 		"/C/_HTML projects/iveco/app/config/config.local.neon",
 		"/C/_HTML projects/iveco/app/bootstrap.php",
 		"/C/_HTML projects/iveco/app/templates/Homepage/kontakt.latte",
@@ -701,6 +818,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"28",
+			"Control",
+			"dete",
+			"slow",
+			"']['",
+			"testclass",
+			"parameters",
+			"hovno",
+			"usermanager",
+			"user",
 			"$unsignedAccess",
 			"distinct",
 			" X_",
@@ -821,8 +948,227 @@
 	"groups":
 	[
 		{
+			"selected": 7,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/components/BoxControl/BoxControl.php",
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Spagr/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 5421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/components/BoxControl/BoxControl.latte",
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Nette/Latte.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/presenters/ComponentsPresenter.php",
+					"settings":
+					{
+						"buffer_size": 886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/presenters/BasePresenter.php",
+					"settings":
+					{
+						"buffer_size": 193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/config/config.neon",
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								484,
+								484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "temp/cache/Nette.Configurator/Container_10cda4a2e1.php",
+					"settings":
+					{
+						"buffer_size": 22769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 12193.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "vendor/jasir/component-tree-panel/ComponentTreePanel.php",
+					"settings":
+					{
+						"buffer_size": 10210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2609,
+								2609
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1828.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -938,6 +1284,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 198.0,
+	"side_bar_width": 280.0,
 	"status_bar_visible": true
 }

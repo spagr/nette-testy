@@ -9,6 +9,7 @@ php:
 	date.timezone: Europe/Prague
 
 
+
 application:
 	errorPresenter: Error
 	mapping:
@@ -17,9 +18,14 @@ application:
 
 di:
 	debugger: yes 
+#	accessors: TRUE
 
 session:
 	expiration: 14 days
+
+tracy:
+	bar:
+#		Extras\Debug\ComponentTreePanel
 
 services:
 	- App\Model\UserManager
