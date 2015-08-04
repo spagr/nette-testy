@@ -22,6 +22,8 @@ class UserManager extends Nette\Object implements Nette\Security\IAuthenticator
 	/** @var Nette\Database\Context */
 	private $database;
 
+	public $substitutions;
+
 
 	public function __construct(Nette\Database\Context $database)
 	{
